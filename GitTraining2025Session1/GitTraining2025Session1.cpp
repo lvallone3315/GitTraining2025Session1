@@ -10,5 +10,5 @@ int main()
     std::cout << "   Pushing another new change to the project\n";
     std::cout << "  Pushing another new change from sami\n";
     std::cout << "  Pushing another new change from Aaron\n";
-std: cout << " Pushing the second change from sami\n";
+    std:: cout << " Pushing the second change from sami\n";
 }
