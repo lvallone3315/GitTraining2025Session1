@@ -10,4 +10,5 @@ int main()
     std::cout << "   Pushing another new change to the project\n";
     std::cout << "  Pushing another new change from sami\n";
     std::cout << "  Pushing another new change from Aaron\n";
+    std::cout << "  A change that should cause a conflict from Lee - made remotely on Github\n";
 }
