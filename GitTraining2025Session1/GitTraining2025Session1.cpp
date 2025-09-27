@@ -7,4 +7,5 @@ int main()
 {
     std::cout << "Hello Git Training - Session 1!\n";
     std::cout << "   Pushing a new change to the project\n";
+    std::cout << "   Pushing another new change to the project\n";
 }
