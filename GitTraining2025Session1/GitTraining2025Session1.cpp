@@ -9,6 +9,7 @@ int main()
     std::cout << "   Pushing a new change to the project\n";
     std::cout << "   Pushing another new change to the project\n";
     std::cout << "  Pushing another new change from sami\n";
+    std::cout << "  A change that should cause a conflict from Lee - made remotely on Github\n";
     std::cout << "  Pushing another new change from Aaron\n";
     std:: cout << " Pushing the second change from sami\n";
 }
